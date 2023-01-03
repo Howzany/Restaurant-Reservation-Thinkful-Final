@@ -5,6 +5,9 @@
 This is the final capstone project for Thinkful. I followed the instructions below to create the web application. Here is the link to the deployed website: 
 https://thinkful-restaurant-reservation-frontend-mqyz.onrender.com
 
+![Final Capstone Screen Shot](https://user-images.githubusercontent.com/85510537/210287179-7aa72778-63c1-49ca-bc8e-4f8511cf0b7b.PNG)
+
+
 > You have been hired as a full stack developer at _Periodic Tables_, a startup that is creating a reservation system for fine dining restaurants.
 > The software is used only by restaurant personnel when a customer calls to request a reservation.
 > At this point, the customers will not access the system online.
